@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Arikill
 - 👀 I’m interested in creating intelligent systems.
 - 🌱 I’m currently learning how biological neuronal systems achieve sparse coding.
-- 💞️ I’m looking to collaborate on neural models and neuroethology
+- 💞️ I’m looking to collaborate on neural models.
 - 📫 How to reach me: ralluri(dot)utah(at)gmail(dot)com
 
 <!---
